@@ -1,0 +1,12 @@
+{
+  "name": "clase01",
+  "version": "1.0.0",
+  "description": "prueba de node para app react",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index2.js"
+  },
+  "author": "samir",
+  "license": "ISC"
+}
